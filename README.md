@@ -237,4 +237,4 @@ date()
 * Then user is provide available timmings for specific date city and all.
 * The tkinter library is used to book the seat number in bus(which is GUI).
 * And at last the user is provide the copy of ticket with details.
-# pro2
+
