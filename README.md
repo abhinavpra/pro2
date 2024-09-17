@@ -3,9 +3,9 @@ A Bus Online Ticket Booking system, which uses GUI in python. Real time Online t
 
 ### Installation: -
 
-* Run a program that makes 20 file with required name as per sequence!
-* The just Download "Bus-Online-Ticket-Booking-System.py" file. 
-* Just make sure that the all files are in same folder to avoid ERROR'S.
+* Run a program that makes 20 file with required name as per sequence.
+* Then just Download "Bus-Online-Ticket-Booking-System.py" file. 
+* Just make sure that the all files are in same folder to avoid ERRORS.
 
 Note: - The latest version of Python is installed (Though latest version is not required).
 
@@ -234,7 +234,7 @@ date()
 
 * This project deals with real time ticket booking.
 * user/costumer has to input some basic detalis as name and gender etc.
-* Then user is provide available timmings for specific date city and all.
+* Then user is provided available timmings for specific date city and all.
 * The tkinter library is used to book the seat number in bus(which is GUI).
-* And at last the user is provide the copy of ticket with details.
+* And at last the user is provided the copy of ticket with details.
 
